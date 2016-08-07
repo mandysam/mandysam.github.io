@@ -23,6 +23,7 @@ body {
 #nav-menu a {
 	text-decoration: none;
 	color: #ff6666;
+    margin-left: 10px;
 }
 
 #nav-menu a:hover {
